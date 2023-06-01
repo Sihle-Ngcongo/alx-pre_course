@@ -1,4 +1,1 @@
-My first readme
-
-^c
-exit
+My first readme A
