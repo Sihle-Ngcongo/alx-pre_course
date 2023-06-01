@@ -1,4 +1,2 @@
 My first readme
-
-^c
-exit
+README update from github.com
